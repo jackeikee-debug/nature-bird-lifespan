@@ -49,9 +49,13 @@ Individual stages can also be run from the numbered directories under `scripts/`
 The public release is split into two parts:
 
 1. This GitHub repository contains code, configuration, documentation, and environment specifications.
-2. A linked archival repository will contain processed inputs, figure source data, supplementary tables, alignments, trees, accession manifests, and checksums.
+2. The linked Zenodo archive contains processed inputs, figure source data, supplementary tables, alignments, trees, accession manifests, and checksums.
 
 Third-party assemblies, annotations, and protein records are referenced by database accession and version rather than redistributed when they remain publicly retrievable.
+
+## Data archive
+
+Processed data and frozen outputs are archived in Zenodo: https://doi.org/10.5281/zenodo.20798437
 
 ## Associated publication
 
@@ -65,4 +69,4 @@ For questions about the code, please contact the corresponding author listed in 
 
 ## Citation
 
-Please cite the associated paper and the archived code DOI.
+Please cite the associated paper and the archived data DOI.
