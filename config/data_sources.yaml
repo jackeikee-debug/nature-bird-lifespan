@@ -1,0 +1,63 @@
+sources:
+  anage:
+    name: AnAge Database of Animal Ageing and Longevity
+    homepage: https://genomics.senescence.info/species/
+    download_url: https://genomics.senescence.info/species/dataset.zip
+    purpose:
+      - maximum lifespan
+      - body mass
+      - sexual maturity
+    raw_output: data/raw/anage/anage_data.zip
+    normalized_output: data/interim/anage_raw.tsv
+  genage_human:
+    name: HAGR GenAge Human Genes
+    homepage: https://genomics.senescence.info/genes/
+    download_url: https://genomics.senescence.info/genes/human_genes.zip
+    purpose:
+      - human aging gene mapping
+      - translational interpretation
+    raw_output: data/raw/hagr/genage_human.zip
+    normalized_output: data/interim/human_mapping/genage_human__genage_human.csv.tsv
+  longevity_map:
+    name: HAGR LongevityMap
+    homepage: https://genomics.senescence.info/longevity/
+    download_url: https://genomics.senescence.info/longevity/longevity_genes.zip
+    purpose:
+      - human longevity association mapping
+    raw_output: data/raw/hagr/longevity_map.zip
+    normalized_output: data/interim/human_mapping/longevity_map__longevity.csv.tsv
+  cellage:
+    name: HAGR CellAge
+    homepage: https://genomics.senescence.info/cells/
+    download_url: https://genomics.senescence.info/cells/cellAge.zip
+    purpose:
+      - cellular senescence mapping
+    raw_output: data/raw/hagr/cellage.zip
+    normalized_output: data/interim/human_mapping/cellage__cellage3.tsv.tsv
+  mygene:
+    name: MyGene.info
+    homepage: https://mygene.info/
+    api_url: https://mygene.info/v3/query
+    purpose:
+      - human gene metadata
+      - gene summary and GO keyword context
+  opentargets:
+    name: Open Targets Platform
+    homepage: https://platform.opentargets.org/
+    api_url: https://api.platform.opentargets.org/api/v4/graphql
+    purpose:
+      - human disease association mapping
+      - target tractability and translational triage
+    raw_output: data/raw/open_targets
+    normalized_outputs:
+      - data/processed/human_disease_mapping.tsv
+      - data/processed/human_translation_priority.tsv
+  hgnc:
+    name: HGNC complete gene set
+    homepage: https://www.genenames.org/download/archive/
+    download_url: https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt
+    purpose:
+      - random human protein-coding background sampling
+      - Week 5 enrichment and permutation support
+    raw_output: data/raw/hgnc/hgnc_complete_set.txt
+    normalized_output: data/processed/week5_background_human_gene_evidence.tsv

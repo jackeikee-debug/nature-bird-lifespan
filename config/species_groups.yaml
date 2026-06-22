@@ -1,0 +1,25 @@
+groups:
+  birds:
+    clade: Aves
+    flight_status_values: [flighted, flightless]
+    target_n: 60-100
+  bats:
+    clade: Mammalia_Chiroptera
+    flight_status_values: [powered_flight]
+    target_n: 20-40
+  non_flying_mammals:
+    clade: Mammalia_nonChiroptera
+    flight_status_values: [non_flying, gliding]
+    target_n: 30-60
+  reptiles:
+    clade: Reptilia
+    flight_status_values: [non_flying]
+    target_n: 20-40
+  anchors:
+    role: translational_and_model_species
+    examples:
+      - Homo sapiens
+      - Mus musculus
+      - Gallus gallus
+      - Taeniopygia guttata
+

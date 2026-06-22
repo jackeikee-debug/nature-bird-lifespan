@@ -1,0 +1,241 @@
+scientific_name	clade	flight_status	habitat	diet	genome_available	annotation_quality	inclusion_role	notes
+Homo sapiens	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	anchor	human translational anchor
+Mus musculus	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	anchor	mouse model anchor
+Gallus gallus	Aves	flighted	terrestrial	omnivore	yes	high	anchor	chicken bird genome anchor
+Taeniopygia guttata	Aves	flighted	terrestrial	granivore	yes	high	anchor	zebra finch bird genome anchor
+Struthio camelus	Aves	flightless	terrestrial	herbivore	yes	medium	bird_flightless	flightless bird contrast
+Aptenodytes forsteri	Aves	flightless	marine	carnivore	yes	medium	bird_flightless	penguin flightless contrast
+Anas platyrhynchos	Aves	flighted	wetland	omnivore	yes	high	bird	duck waterbird
+Columba livia	Aves	flighted	terrestrial	granivore	yes	medium	bird	pigeon urban bird
+Corvus brachyrhynchos	Aves	flighted	terrestrial	omnivore	yes	medium	bird	corvid cognition and longevity candidate
+Falco peregrinus	Aves	flighted	terrestrial	carnivore	yes	medium	bird	raptor
+Aquila chrysaetos	Aves	flighted	terrestrial	carnivore	yes	medium	bird	long-lived raptor candidate
+Tyto alba	Aves	flighted	terrestrial	carnivore	yes	medium	bird	owl
+Melopsittacus undulatus	Aves	flighted	terrestrial	granivore	yes	medium	bird	parrot relative
+Ara macao	Aves	flighted	forest	frugivore	yes	medium	bird	long-lived parrot candidate
+Myotis lucifugus	Mammalia_Chiroptera	powered_flight	aerial	insectivore	yes	high	bat	bat convergence set
+Myotis brandtii	Mammalia_Chiroptera	powered_flight	aerial	insectivore	yes	medium	bat	long-lived bat candidate
+Pteropus vampyrus	Mammalia_Chiroptera	powered_flight	aerial	frugivore	yes	medium	bat	large fruit bat
+Desmodus rotundus	Mammalia_Chiroptera	powered_flight	aerial	sanguivore	yes	medium	bat	vampire bat
+Eptesicus fuscus	Mammalia_Chiroptera	powered_flight	aerial	insectivore	yes	medium	bat	bat convergence set
+Heterocephalus glaber	Mammalia_nonChiroptera	non_flying	subterranean	herbivore	yes	high	mammal_long_lived	naked mole-rat outlier
+Balaena mysticetus	Mammalia_nonChiroptera	non_flying	marine	filter_feeder	yes	high	mammal_long_lived	bowhead whale outlier
+Loxodonta africana	Mammalia_nonChiroptera	non_flying	terrestrial	herbivore	yes	high	mammal	large mammal contrast
+Canis lupus familiaris	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	mammal	domestic mammal
+Felis catus	Mammalia_nonChiroptera	non_flying	terrestrial	carnivore	yes	high	mammal	domestic mammal
+Bos taurus	Mammalia_nonChiroptera	non_flying	terrestrial	herbivore	yes	high	mammal	domestic mammal
+Macaca mulatta	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	mammal	primate reference
+Monodelphis domestica	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	mammal	marsupial reference
+Ornithorhynchus anatinus	Mammalia_nonChiroptera	non_flying	semi_aquatic	carnivore	yes	high	mammal	monotreme reference
+Anolis carolinensis	Reptilia	non_flying	terrestrial	insectivore	yes	high	reptile	lizard reference
+Gekko japonicus	Reptilia	non_flying	terrestrial	insectivore	yes	medium	reptile	gecko reference
+Python bivittatus	Reptilia	non_flying	terrestrial	carnivore	yes	medium	reptile	snake reference
+Alligator mississippiensis	Reptilia	non_flying	freshwater	carnivore	yes	high	archosaur_outgroup	crocodilian archosaur reference
+Crocodylus porosus	Reptilia	non_flying	freshwater	carnivore	yes	medium	archosaur_outgroup	crocodilian archosaur reference
+Chelonia mydas	Reptilia	non_flying	marine	herbivore	yes	medium	reptile	turtle reference
+Chrysemys picta bellii	Reptilia	non_flying	freshwater	omnivore	yes	high	reptile	painted turtle reference
+Accipiter cooperii	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Accipitriformes; family=Accipitridae
+Cathartes aura	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Accipitriformes; family=Cathartidae
+Pandion cristatus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Accipitriformes; family=Pandionidae
+Aix sponsa	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Anseriformes; family=Anatidae
+Anseranas semipalmata	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Anseriformes; family=Anseranatidae
+Aegotheles cristatus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Apodiformes; family=Aegothelidae
+Aerodramus terraereginae	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Apodiformes; family=Apodidae
+Amazilia violiceps	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Apodiformes; family=Trochilidae
+Apteryx australis	Aves	flightless	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Apterygiformes; family=Apterygidae
+Buceros bicornis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Bucerotiformes; family=Bucerotidae
+Bucorvus leadbeateri	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Bucerotiformes; family=Bucorvidae
+Upupa epops	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Bucerotiformes; family=Upupidae
+Caprimulgus carolinensis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Caprimulgiformes; family=Caprimulgidae
+Podargus strigoides	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Caprimulgiformes; family=Podargidae
+Casuarius bennetti	Aves	flightless	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Casuariiformes; family=Casuariidae
+Dromaius novaehollandiae	Aves	flightless	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Casuariiformes; family=Dromaiidae
+Aethia cristatella	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Alcidae
+Burhinus oedicnemus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Burhinidae
+Charadrius alexandrinus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Charadriidae
+Glareola maldivarum	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Glareolidae
+Haematopus bachmani	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Haematopodidae
+Anous minutus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Laridae
+Pedionomus torquatus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Pedionomidae
+Cladorhynchus leucocephalus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Recurvirostridae
+Actitis hypoleucos	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Scolopacidae
+Stercorarius antarcticus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Charadriiformes; family=Stercorariidae
+Ciconia abdimii	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Ciconiiformes; family=Ciconiidae
+Colius striatus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Coliiformes; family=Coliidae
+Caloenas nicobarica	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Columbiformes; family=Columbidae
+Alcedo atthis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Coraciiformes; family=Alcedinidae
+Coracias benghalensis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Coraciiformes; family=Coraciidae
+Merops apiaster	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Coraciiformes; family=Meropidae
+Momotus mexicanus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Coraciiformes; family=Momotidae
+Todus mexicanus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Coraciiformes; family=Todidae
+Cacomantis flabelliformis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cuculiformes; family=Cuculidae
+Eurypyga helias	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Eurypygiformes; family=Eurypygidae
+Caracara cheriway	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Falconiformes; family=Falconidae
+Crax globulosa	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Galliformes; family=Cracidae
+Alectura lathami	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Galliformes; family=Megapodiidae
+Callipepla californica	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Galliformes; family=Odontophoridae
+Alectoris rufa	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Galliformes; family=Phasianidae
+Gavia arctica	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Gaviiformes; family=Gaviidae
+Balearica regulorum	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Gruiformes; family=Gruidae
+Fulica americana	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Gruiformes; family=Rallidae
+Tauraco leucotis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Musophagiformes; family=Musophagidae
+Otis tarda	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Otidiformes; family=Otididae
+Acanthiza chrysorrhoa	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Acanthizidae
+Acrocephalus arundinaceus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Acrocephalidae
+Aegithalos caudatus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Aegithalidae
+Alauda arvensis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Alaudidae
+Artamus cyanopterus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Artamidae
+Atrichornis clamosus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Atrichornithidae
+Bombycilla cedrorum	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Bombycillidae
+Calcarius lapponicus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Calcariidae
+Coracina novaehollandiae	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Campephagidae
+Cardinalis cardinalis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Cardinalidae
+Certhia familiaris	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Certhiidae
+Cettia cetti	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Cettiidae
+Cinclus cinclus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Cinclidae
+Cisticola exilis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Cisticolidae
+Climacteris erythrops	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Climacteridae
+Corcorax melanoramphos	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Corcoracidae
+Aphelocoma californica	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Corvidae
+Rupicola rupicola	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Cotingidae
+Cracticus nigrogularis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Cracticidae
+Dasyornis brachypterus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Dasyornithidae
+Dicaeum hirundinaceum	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Dicaeidae
+Dicrurus bracteatus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Dicruridae
+Ammodramus caudacutus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Emberizidae
+Erythrura gouldiae	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Estrildidae
+Acanthis flammea	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Fringillidae
+Dendrocincla anabatina	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Furnariidae
+Cecropis daurica	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Hirundinidae
+Agelaius phoeniceus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Icteridae
+Lanius collurio	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Laniidae
+Leiothrix lutea	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Leiothrichidae
+Locustella fluviatilis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Locustellidae
+Machaerirhynchus flaviventer	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Machaerirhynchidae
+Amytornis barbatus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Maluridae
+Acanthagenys rufogularis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Meliphagidae
+Menura novaehollandiae	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Menuridae
+Dumetella carolinensis	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Mimidae
+Arses kaupi	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Monarchidae
+Anthus cervinus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Motacillidae
+Copsychus malabaricus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Muscicapidae
+Cinnyris asiaticus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Nectariniidae
+Daphoenositta chrysoptera	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Neosittidae
+Nesospingus speculiferus	Aves	flighted	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Passeriformes; family=Nesospingidae
+Saccopteryx bilineata	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Emballonuridae
+Hipposideros fulvus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Hipposideridae
+Macroderma gigas	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Megadermatidae
+Miniopterus schreibersii	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Miniopteridae
+Molossus molossus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Molossidae
+Mystacina tuberculata	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Mystacinidae
+Noctilio leporinus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Noctilionidae
+Anoura geoffroyi	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Phyllostomidae
+Cynopterus brachyotis	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Pteropodidae
+Rhinolophus ferrumequinum	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Rhinolophidae
+Antrozous pallidus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Vespertilionidae
+Taphozous hilli	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Emballonuridae
+Megaderma lyra	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Megadermatidae
+Tadarida brasiliensis	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Molossidae
+Artibeus jamaicensis	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Phyllostomidae
+Cynopterus sphinx	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Pteropodidae
+Rhinolophus hipposideros	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Rhinolophidae
+Barbastella barbastellus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Vespertilionidae
+Taphozous georgianus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Emballonuridae
+Tadarida teniotis	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Molossidae
+Diphylla ecaudata	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Phyllostomidae
+Dobsonia moluccensis	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Pteropodidae
+Rhinolophus euryale	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Rhinolophidae
+Chalinolobus gouldii	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Vespertilionidae
+Glossophaga soricina	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Phyllostomidae
+Eidolon helvum	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Pteropodidae
+Chalinolobus morio	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Vespertilionidae
+Leptonycteris curasoae	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Phyllostomidae
+Epomophorus gambianus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Pteropodidae
+Corynorhinus townsendii	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Vespertilionidae
+Macrotus californicus	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Phyllostomidae
+Epomophorus wahlbergi	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Pteropodidae
+Eptesicus nilssonii	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Vespertilionidae
+Macrotus waterhousii	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Phyllostomidae
+Haplonycteris fischeri	Mammalia_Chiroptera	powered_flight	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Chiroptera; family=Pteropodidae
+Echinops telfairi	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Afrosoricida; family=Tenrecidae
+Antilocapra americana	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Antilocapridae
+Alcelaphus buselaphus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Bovidae
+Camelus dromedarius	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Camelidae
+Axis calamianensis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Cervidae
+Okapia johnstoni	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Giraffidae
+Hexaprotodon liberiensis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Hippopotamidae
+Babyrousa babyrussa	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Suidae
+Tayassu pecari	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Tayassuidae
+Moschiola meminna	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Artiodactyla; family=Tragulidae
+Ailurus fulgens	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Ailuridae
+Atelocynus microtis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Canidae
+Cryptoprocta ferox	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Eupleridae
+Caracal caracal	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Felidae
+Atilax paludinosus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Herpestidae
+Crocuta crocuta	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Hyaenidae
+Conepatus chinga	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Mephitidae
+Aonyx capensis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Mustelidae
+Nandinia binotata	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Nandiniidae
+Arctocephalus australis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Otariidae
+Halichoerus grypus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Phocidae
+Bassaricyon alleni	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Procyonidae
+Ailuropoda melanoleuca	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Ursidae
+Arctictis binturong	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Carnivora; family=Viverridae
+Eubalaena australis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Balaenidae
+Balaenoptera acutorostrata	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Balaenopteridae
+Delphinus delphis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Delphinidae
+Eschrichtius robustus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Eschrichtiidae
+Berardius bairdii	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Hyperoodontidae
+Inia geoffrensis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Iniidae
+Kogia breviceps	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Kogiidae
+Lipotes vexillifer	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Lipotidae
+Delphinapterus leucas	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Monodontidae
+Neophocaena phocaenoides	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Phocoenidae
+Physeter macrocephalus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cetacea; family=Physeteridae
+Chaetophractus vellerosus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Cingulata; family=Dasypodidae
+Antechinomys laniger	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Dasyuromorphia; family=Dasyuridae
+Myrmecobius fasciatus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Dasyuromorphia; family=Myrmecobiidae
+Caluromys derbianus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Didelphimorphia; family=Didelphidae
+Acrobates pygmaeus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Acrobatidae
+Burramys parvus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Burramyidae
+Dendrolagus dorianus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Macropodidae
+Dactylopsila trivirgata	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Petauridae
+Phalanger gymnotis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Phalangeridae
+Phascolarctos cinereus	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Phascolarctidae
+Aepyprymnus rufescens	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Potoroidae
+Hemibelideus lemuroides	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Pseudocheiridae
+Lasiorhinus krefftii	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Diprotodontia; family=Vombatidae
+Erinaceus amurensis	Mammalia_nonChiroptera	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Erinaceomorpha; family=Erinaceidae
+Alligator sinensis	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Crocodilia; family=Alligatoridae
+Crocodylus acutus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Crocodilia; family=Crocodylidae
+Gavialis gangeticus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Crocodilia; family=Gavialidae
+Sphenodon punctatus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Rhynchocephalia; family=Sphenodontidae
+Acrochordus arafurae	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Acrochordidae
+Acanthocercus atricollis	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Agamidae
+Amphisbaena alba	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Amphisbaenidae
+Anguis fragilis	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Anguidae
+Blanus cinereus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Blanidae
+Boa constrictor	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Boidae
+Candoia aspera	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Candoiidae
+Underwoodisaurus milii	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Carphodactylidae
+Chamaeleo chamaeleon	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Chamaeleonidae
+Charina bottae	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Charinidae
+Arizona elegans	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Colubridae
+Cordylus cordylus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Cordylidae
+Basiliscus plumifrons	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Corytophanidae
+Anolis cuvieri	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Dactyloidae
+Hoplodactylus duvaucelii	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Diplodactylidae
+Acanthophis antarcticus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Elapidae
+Eryx jaculus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Erycidae
+Coleonyx variegatus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Eublepharidae
+Chondrodactylus angulifer	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Gekkonidae
+Heloderma horridum	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Helodermatidae
+Erpeton tentaculatum	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Homalopsidae
+Amblyrhynchus cristatus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Iguanidae
+Gallotia galloti	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Lacertidae
+Atractaspis bibronii	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Lamprophiidae
+Leiocephalus carinatus	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Leiocephalidae
+Oplurus cuvieri	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Opluridae
+Uma notata	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Phrynosomatidae
+Ptyodactylus hasselquistii	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Phyllodactylidae
+Antaresia childreni	Reptilia	non_flying	unknown	unknown	unknown	unknown	auto_anage_candidate	auto-selected from AnAge; order=Squamata; family=Pythonidae

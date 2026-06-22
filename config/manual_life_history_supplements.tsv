@@ -1,0 +1,4 @@
+scientific_name	body_mass_g	max_lifespan_years	sexual_maturity_years	source_name	source_url	source_note	use_in_model	notes
+Aptenodytes forsteri		50		Animal Diversity Web	https://animaldiversity.org/accounts/Aptenodytes_forsteri/	ADW reports range lifespan high 50 years in captivity and typical wild 15-20 years; secondary structured species account, not AnAge	no	Candidate supplement only; review before model inclusion
+Gekko japonicus					no	No same-species AnAge record found; do not substitute a congener for modeling
+Python bivittatus					no	No same-species AnAge record found; do not substitute another pythonid for modeling

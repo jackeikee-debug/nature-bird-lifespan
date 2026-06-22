@@ -1,0 +1,37 @@
+project:
+  name: bird_lifespan_genome_maintenance
+  question: >
+    Do birds and bats show convergent lifespan residual elevation linked to
+    long-term somatic maintenance mechanisms?
+  primary_response: max_lifespan_years
+  first_pass_predictors:
+    - body_mass_g
+    - clade
+    - flight_status
+  current_phase: week_1_species_table
+
+paths:
+  raw_anage_zip: data/raw/anage/anage_data.zip
+  interim_anage_tsv: data/interim/anage_raw.tsv
+  species_seed: config/species_seed.tsv
+  species_seed_expanded: config/species_seed_expanded.tsv
+  manual_life_history_supplements: config/manual_life_history_supplements.tsv
+  species_master: data/processed/species_master.tsv
+  lifespan_residuals: data/processed/lifespan_residuals.tsv
+  taxonomy_audit: data/processed/taxonomy_audit.tsv
+  outlier_audit: data/processed/outlier_audit.tsv
+  replacement_candidates: data/processed/replacement_candidates.tsv
+  pgls_species: data/processed/pgls_species.tsv
+  tree_label_audit: data/processed/tree_label_audit.tsv
+  opentree_tnrs_matches: data/processed/opentree_tnrs_matches.tsv
+  tree_label_audit_opentree: data/processed/tree_label_audit_opentree.tsv
+  pgls_tree_ready: data/processed/pgls_tree_ready.tsv
+  pgls_tree_manual_review: data/processed/pgls_tree_manual_review.tsv
+  opentree_induced_subtree: data/processed/phylogeny_inputs/opentree_induced_subtree.tre
+  pgls_trait_table: data/processed/pgls_trait_table.tsv
+  opentree_subtree_audit: data/processed/opentree_subtree_audit.tsv
+  tree_subset_ols_models: results/tables/tree_subset_ols_models.tsv
+  tree_subset_ols_residuals: data/processed/tree_subset_ols_residuals.tsv
+  genome_availability_audit: data/processed/genome_availability_audit.tsv
+  genome_maintenance_species: data/processed/genome_maintenance_species.tsv
+  phylogeny_inputs: data/processed/phylogeny_inputs

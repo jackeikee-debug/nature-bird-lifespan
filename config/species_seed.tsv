@@ -1,0 +1,36 @@
+scientific_name	clade	flight_status	habitat	diet	genome_available	annotation_quality	inclusion_role	notes
+Homo sapiens	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	anchor	human translational anchor
+Mus musculus	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	anchor	mouse model anchor
+Gallus gallus	Aves	flighted	terrestrial	omnivore	yes	high	anchor	chicken bird genome anchor
+Taeniopygia guttata	Aves	flighted	terrestrial	granivore	yes	high	anchor	zebra finch bird genome anchor
+Struthio camelus	Aves	flightless	terrestrial	herbivore	yes	medium	bird_flightless	flightless bird contrast
+Aptenodytes forsteri	Aves	flightless	marine	carnivore	yes	medium	bird_flightless	penguin flightless contrast
+Anas platyrhynchos	Aves	flighted	wetland	omnivore	yes	high	bird	duck waterbird
+Columba livia	Aves	flighted	terrestrial	granivore	yes	medium	bird	pigeon urban bird
+Corvus brachyrhynchos	Aves	flighted	terrestrial	omnivore	yes	medium	bird	corvid cognition and longevity candidate
+Falco peregrinus	Aves	flighted	terrestrial	carnivore	yes	medium	bird	raptor
+Aquila chrysaetos	Aves	flighted	terrestrial	carnivore	yes	medium	bird	long-lived raptor candidate
+Tyto alba	Aves	flighted	terrestrial	carnivore	yes	medium	bird	owl
+Melopsittacus undulatus	Aves	flighted	terrestrial	granivore	yes	medium	bird	parrot relative
+Ara macao	Aves	flighted	forest	frugivore	yes	medium	bird	long-lived parrot candidate
+Myotis lucifugus	Mammalia_Chiroptera	powered_flight	aerial	insectivore	yes	high	bat	bat convergence set
+Myotis brandtii	Mammalia_Chiroptera	powered_flight	aerial	insectivore	yes	medium	bat	long-lived bat candidate
+Pteropus vampyrus	Mammalia_Chiroptera	powered_flight	aerial	frugivore	yes	medium	bat	large fruit bat
+Desmodus rotundus	Mammalia_Chiroptera	powered_flight	aerial	sanguivore	yes	medium	bat	vampire bat
+Eptesicus fuscus	Mammalia_Chiroptera	powered_flight	aerial	insectivore	yes	medium	bat	bat convergence set
+Heterocephalus glaber	Mammalia_nonChiroptera	non_flying	subterranean	herbivore	yes	high	mammal_long_lived	naked mole-rat outlier
+Balaena mysticetus	Mammalia_nonChiroptera	non_flying	marine	filter_feeder	yes	high	mammal_long_lived	bowhead whale outlier
+Loxodonta africana	Mammalia_nonChiroptera	non_flying	terrestrial	herbivore	yes	high	mammal	large mammal contrast
+Canis lupus familiaris	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	mammal	domestic mammal
+Felis catus	Mammalia_nonChiroptera	non_flying	terrestrial	carnivore	yes	high	mammal	domestic mammal
+Bos taurus	Mammalia_nonChiroptera	non_flying	terrestrial	herbivore	yes	high	mammal	domestic mammal
+Macaca mulatta	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	mammal	primate reference
+Monodelphis domestica	Mammalia_nonChiroptera	non_flying	terrestrial	omnivore	yes	high	mammal	marsupial reference
+Ornithorhynchus anatinus	Mammalia_nonChiroptera	non_flying	semi_aquatic	carnivore	yes	high	mammal	monotreme reference
+Anolis carolinensis	Reptilia	non_flying	terrestrial	insectivore	yes	high	reptile	lizard reference
+Gekko japonicus	Reptilia	non_flying	terrestrial	insectivore	yes	medium	reptile	gecko reference
+Python bivittatus	Reptilia	non_flying	terrestrial	carnivore	yes	medium	reptile	snake reference
+Alligator mississippiensis	Reptilia	non_flying	freshwater	carnivore	yes	high	archosaur_outgroup	crocodilian archosaur reference
+Crocodylus porosus	Reptilia	non_flying	freshwater	carnivore	yes	medium	archosaur_outgroup	crocodilian archosaur reference
+Chelonia mydas	Reptilia	non_flying	marine	herbivore	yes	medium	reptile	turtle reference
+Chrysemys picta bellii	Reptilia	non_flying	freshwater	omnivore	yes	high	reptile	painted turtle reference

@@ -1,0 +1,50 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.snakemake/
+.pytest_cache/
+.Rhistory
+.RData
+
+# Local research data and generated analyses are archived separately.
+data/
+results/
+submission/
+temp/
+public_release/
+
+# Local runtimes and downloaded bioinformatics tools.
+env/*
+!env/environment.yml
+!env/requirements.txt
+!env/R_packages.tsv
+tools/
+
+# Machine-specific configuration and editor state.
+config/local_tool_paths.yaml
+config/local_tools.yaml
+.agents/
+.codex/
+.vscode/
+
+# Keep the public repository focused on methods and reproducibility.
+docs/*
+!docs/anage_download_notes.md
+!docs/data_gap_resolution.md
+!docs/jme_reproducibility_guide.md
+!docs/phylogeny_pgls_prep.md
+!docs/species_inclusion_criteria.md
+!docs/variable_dictionary.md
+
+# Downloaded archives and large database/index formats.
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.dmnd
+*.pin
+*.phr
+*.psq
+*.nin
+*.nhr
+*.nsq

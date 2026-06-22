@@ -1,0 +1,16 @@
+maintenance_modules:
+  DNA_repair:
+    example_genes: [ATM, ATR, BRCA1, BRCA2, RAD51, XRCC5, XRCC6, PARP1]
+  proteostasis:
+    example_genes: [HSPA8, HSP90AA1, HSF1, UBB, PSMA1, PSMB5]
+  autophagy:
+    example_genes: [BECN1, ATG5, ATG7, MAP1LC3B, SQSTM1]
+  mitochondrial_quality_control:
+    example_genes: [PINK1, PRKN, MFN1, MFN2, OPA1, BNIP3]
+  inflammation_control:
+    example_genes: [NFKB1, RELA, IL6, TNF, NLRP3, SIRT1]
+  transposon_suppression:
+    example_genes: [PIWIL1, PIWIL2, MOV10, TRIM28, SETDB1]
+  cancer_surveillance:
+    example_genes: [TP53, RB1, PTEN, CDKN2A, CHEK2]
+
