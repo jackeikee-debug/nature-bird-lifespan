@@ -57,7 +57,7 @@ Third-party assemblies, annotations, and protein records are referenced by datab
 
 ## Data archive
 
-Processed data and frozen outputs are archived in Zenodo: https://doi.org/10.5281/zenodo.20798437
+Processed data and frozen outputs are archived in Zenodo: https://doi.org/10.5281/zenodo.21063039
 
 ## Associated publication
 
