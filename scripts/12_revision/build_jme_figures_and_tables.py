@@ -227,7 +227,7 @@ def build_workflow_figure() -> None:
     ax.text(
         0.02,
         0.97,
-        "Sequence-audited comparative genomics of vertebrate lifespan evolution",
+        "Gene observability in comparative genomics of vertebrate lifespan evolution",
         fontsize=17,
         weight="bold",
         color=COLORS["ink"],
@@ -236,18 +236,18 @@ def build_workflow_figure() -> None:
     ax.text(
         0.02,
         0.925,
-        "Study design separates phylogenetic association, gene observability, orthology evidence, and domain conservation",
+        "Study design separates trait association, observability, orthology support, and domain evidence",
         fontsize=10.2,
         color=COLORS["muted"],
         va="top",
     )
 
     boxes = [
-        ((0.03, 0.585), "Comparative phenotype", ["Maximum lifespan", "Body mass and clade", "Mass- and clade-adjusted residual"], COLORS["blue"], "1  TRAITS"),
-        ((0.355, 0.585), "Genome-maintenance matrix", ["68 vertebrate species", "236-gene design -> 200 scored", "Six prespecified modules"], COLORS["teal"], "2  MATRIX"),
-        ((0.68, 0.585), "Phylogenetic association", ["DateLife-calibrated OpenTree", "PGLS and phylogenetic signal", "Branch and clade sensitivity"], COLORS["purple"], "3  MODELS"),
-        ((0.03, 0.235), "Gene observability", ["Genome tier and module coverage", "5,000 matched random gene sets", "High-coverage sensitivity"], COLORS["gold"], "4  BIAS CONTROL"),
-        ((0.355, 0.235), "Orthology evidence audit", ["140 low-coverage avian rows", "GFF/CDS + reciprocal sequence", "Strict, ambiguous, unresolved"], COLORS["orange"], "5  SEQUENCE AUDIT"),
+        ((0.03, 0.585), "Comparative phenotype", ["Maximum lifespan", "Body mass and clade", "Residual adjusted for mass and clade"], COLORS["blue"], "1  TRAITS"),
+        ((0.355, 0.585), "Genome maintenance matrix", ["68 vertebrate species", "236 gene design -> 200 scored", "Six prespecified modules"], COLORS["teal"], "2  MATRIX"),
+        ((0.68, 0.585), "Phylogenetic association", ["DateLife calibrated OpenTree", "PGLS and phylogenetic signal", "Branch and clade sensitivity"], COLORS["purple"], "3  MODELS"),
+        ((0.03, 0.235), "Gene observability", ["Genome tier and module coverage", "5,000 matched random gene sets", "High coverage sensitivity"], COLORS["gold"], "4  BIAS CONTROL"),
+        ((0.355, 0.235), "Orthology evidence audit", ["140 avian rows with low coverage", "GFF/CDS + reciprocal sequence", "Strict, ambiguous, unresolved"], COLORS["orange"], "5  SEQUENCE AUDIT"),
         ((0.68, 0.235), "Protein and domain evolution", ["508 proteins; gene-wise MAFFT", "InterProScan/Pfam projection", "SAMHD1 SAM/HD hypothesis"], COLORS["green"], "6  DOMAIN TEST"),
     ]
     for xy, title, lines, color, step in boxes:
@@ -287,7 +287,7 @@ def build_workflow_figure() -> None:
     ax.text(
         0.27,
         0.078,
-        "No claim of pathway specificity, bird-specific mechanism, flight convergence, positive selection, or altered enzyme activity",
+        "No claim of pathway specificity, bird specific mechanism, flight convergence, positive selection, or altered enzyme activity",
         fontsize=8.9,
         color=COLORS["muted"],
         va="center",

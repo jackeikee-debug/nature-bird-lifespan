@@ -1,11 +1,13 @@
-# Sequence-audited vertebrate lifespan genomics
+# Gene observability in vertebrate lifespan comparative genomics
 
-Code for a comparative-genomics study of genome-maintenance genes and vertebrate lifespan evolution. The workflow combines phylogenetic lifespan models, gene-observability controls, orthology evidence auditing, targeted protein-family trees, and Pfam-domain conservation analyses.
+Code for a methodologically focused comparative genomics study of gene observability, genome maintenance genes, and vertebrate lifespan evolution. The workflow combines phylogenetic lifespan models, gene-observability controls, orthology evidence auditing, targeted protein-family trees, and Pfam-domain conservation analyses.
+
+The repository name is historical. The associated manuscript is currently framed around gene observability and comparative genomic inference, not a claim for a bird-specific lifespan mechanism.
 
 ## Study design
 
 - 68-species primary vertebrate genome panel.
-- 200 scoreable genome-maintenance genes in six prespecified modules.
+- 200 scoreable genome maintenance genes in six prespecified modules.
 - Mass- and clade-adjusted PGLS association and sensitivity models.
 - Annotation-tier, coverage, matched-random-set, and branch-length controls.
 - Sequence auditing of 140 low-observability avian species-gene rows.
@@ -61,7 +63,7 @@ Processed data and frozen outputs are archived in Zenodo: https://doi.org/10.528
 
 This repository contains the analysis code for:
 
-*Sequence-audited comparative genomics of genome-maintenance genes in vertebrate lifespan evolution.* *Journal of Molecular Evolution*. DOI: pending.
+*Gene observability limits comparative genomic inference of vertebrate lifespan evolution.* *Journal of Molecular Evolution*. DOI: pending.
 
 ## Maintainer
 
