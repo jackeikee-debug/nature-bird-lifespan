@@ -23,9 +23,11 @@ python scripts/13_major_revision2/build_degradation_inputs.py
 Rscript scripts/13_major_revision2/run_annotation_degradation_simulation.R
 python scripts/13_major_revision2/plot_revision2_core_results.py
 python scripts/13_major_revision2/build_revision2_main_figures.py
+Rscript scripts/13_major_revision2/plot_circular_phylogenetic_heatmap.R
+python scripts/13_major_revision2/plot_figure5_degradation_sequence.py
 ```
 
-These commands build the study-effort covariates, merge BUSCO and assembly data, fit the revised PGLS models, run 500-replicate matrix-degradation experiments, and rebuild Figures 1-4. The degradation analysis is an intervention on the observed binary matrix, not physical assembly fragmentation and reannotation.
+These commands build the study-effort covariates, merge BUSCO and assembly data, fit the revised PGLS models, run 500-replicate matrix-degradation experiments, and rebuild Figures 1-5. The degradation analysis is an intervention on the observed binary matrix, not physical assembly fragmentation and reannotation.
 
 ## Retained sequence and sensitivity analyses
 
@@ -54,10 +56,11 @@ These commands reproduce the matched random gene sets, evidence weighting sensit
 - `results/tables/jme_revision2_module_correlations.tsv`
 - `results/tables/jme_revision2_degradation_replicates.tsv`
 - `results/tables/jme_revision2_degradation_summary.tsv`
-- `results/figures/jme_revision2_figure1_design_hypotheses.*`
-- `results/figures/jme_revision2_figure2_shared_module_axis.*`
-- `results/figures/jme_revision2_figure3_effort_busco_sensitivity.*`
-- `results/figures/jme_revision2_figure4_degradation_simulation.*`
+- `results/figures/jme_revision2_figure1_circular_phylogeny.*`
+- `results/figures/jme_revision2_figure1_study_design.*` (submitted as Figure 2)
+- `results/figures/jme_revision2_figure2_shared_module_axis.*` (submitted as Figure 3)
+- `results/figures/jme_revision2_effort_busco_forest.*` (submitted as Figure 4)
+- `results/figures/jme_revision2_figure5_degradation_sequence.*`
 
 ## Interpretation boundaries
 
