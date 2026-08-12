@@ -30,11 +30,11 @@ def save(fig: plt.Figure, stem: str) -> None:
     plt.close(fig)
 
 
-def box(ax, x, y, w, h, label, title, lines, color):
+def box(ax, x, y, w, h, label, title, lines, color, title_fontsize=10.2):
     ax.add_patch(FancyBboxPatch((x, y), w, h, boxstyle="round,pad=0.012,rounding_size=0.018",
                                 facecolor="white", edgecolor=color, linewidth=1.8))
     ax.text(x + 0.025, y + h - 0.04, label, color=color, fontsize=8.5, weight="bold", va="top")
-    ax.text(x + 0.025, y + h - 0.09, title, color=INK, fontsize=10.2, weight="bold", va="top")
+    ax.text(x + 0.025, y + h - 0.09, title, color=INK, fontsize=title_fontsize, weight="bold", va="top")
     for i, line in enumerate(lines):
         ax.text(x + 0.025, y + h - 0.145 - i * 0.033, line, color=MUTED, fontsize=7.3, va="top")
 
@@ -53,7 +53,8 @@ def workflow() -> None:
     box(ax, 0.685, 0.565, 0.28, 0.285, "EMPIRICAL TESTS", "Measured covariates",
         ["BUSCO completeness (49 species)", "Assembly tier and contig N50", "AnAge reference count", "Exact-name PubMed record count"], TEAL)
     box(ax, 0.18, 0.225, 0.28, 0.265, "INTERVENTION", "Annotation-matrix degradation",
-        ["31 high-quality genomes", "5%, 10%, 20%, 30% masking", "Random, low-attention, and", "outcome-related observation loss"], GOLD)
+        ["31 high-quality genomes", "5%, 10%, 20%, 30% masking", "Random, low-attention, and", "outcome-related observation loss"], GOLD,
+        title_fontsize=8.7)
     box(ax, 0.54, 0.225, 0.28, 0.265, "ESTIMANDS", "Quantified performance",
         ["Score RMSE and effect bias", "95% interval coverage", "False positive rate", "Power for a planted effect"], TEAL)
     for start, end in [((.315,.705),(.36,.705)),((.64,.705),(.685,.705)),((.825,.57),(.72,.485)),((.46,.36),(.54,.36))]:
